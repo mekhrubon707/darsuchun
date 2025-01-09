@@ -6,9 +6,7 @@ Men mekhrubon707man. Men dasturlash qiziqaman.
 - HTML va CSS 
 
 
-## Loyihalarim:
-- [Portfolio Veb-sayti](https://github.com/usernameingiz/portfolio)
-- [Ob-havo Ilovasi](https://github.com/usernameingiz/weather-app)
+
 
 
 ## Aloqa:
