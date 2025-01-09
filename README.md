@@ -1,5 +1,5 @@
 # Assalomu alaykum! 👋  
-Men mekhrubon707man. Men dasturlash qiziqaman.
+Men Mekhrubonman. Men dasturlash qiziqaman.
 
 ## Texnologiyalar:
 - Python 🐍
